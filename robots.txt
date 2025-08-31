@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fainted-the-band.nl
+
+# Sitemaps
+Sitemap: https://fainted-the-band.nl/sitemap.xml
